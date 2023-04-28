@@ -29,7 +29,7 @@ Different routes, with the splash screen being the initial route.
 
 ![image](https://user-images.githubusercontent.com/89774924/235117626-1ef4a1fb-00e9-4c6e-9b1b-6a28f0c08d26.png)
 |:--:|
-| *When the SihnIn button is clicked,* |
+| *When the SignIn button is clicked,* |
 ![WhatsApp Image 2023-04-28 at 14 07 31](https://user-images.githubusercontent.com/89774924/235117841-f80120b1-7e55-497c-8f64-4fedeee776df.jpg)
 |:--:|
 | *It is then directed to the home screen* |
